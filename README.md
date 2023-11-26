@@ -17,7 +17,7 @@ pip install --upgrade openai
 ```
 * Run it with this command:
 ```
-python GPTVoiceAccistant.py
+python GPTVoiceAssistant.py
 ```
 
 * Follow the prompts! If all goes well you will soon be talking to GPT!
