@@ -7,4 +7,20 @@ https://medium.com/@jordanlgibbs/how-to-create-your-own-gpt-voice-assistant-with
 
 * Read the article to make sure you have all the prerequisites, especially ffmpeg, which takes some setup.
 * I added dotenv to his script.
-To use it, create a .env file and put your OPENAI key in it.
+### Installation: 
+* Create a .env file and put your OPENAI key in it like this: ```OPENAI_API_KEY=sk-*```
+* Create a new python environment and activate it.
+* Use pip to install all the depencies
+* To install the openai runtime, make sure you get the most recent version with this command: 
+```
+pip install --upgrade openai
+```
+* Run it with this command:
+```
+python GPTVoiceAccistant.py
+```
+
+* Follow the prompts! If all goes well you will soon be talking to GPT!
+
+
+
